@@ -4,6 +4,7 @@ Este proyecto es un panel interactivo diseñado para consumir, filtrar y compart
 
 Para ofrecer máxima compatibilidad, el proyecto cuenta con dos implementaciones backend listas para usar: **Node.js (Express)** y **Python (Flask)**. Ambas consumen la misma interfaz frontend.
 
+Nota: Esta es una aplicación creada utilizando AntiGravity
 ---
 
 ## Requisitos Previos
